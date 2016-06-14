@@ -1,6 +1,6 @@
 {
   "name": "Repository Bootstrapper",
   "tagline": "Bootstrap GIT repo for setting up a Kodi repository",
-  "body": "#Repository Bootstrapper\r\n##_Bootstrap a GIT repo for setting up a Kodi repository_\r\n\r\n_forked from BartOtten with the additions of:_\r\n\r\n- Ignore .idea folders in addons' subfolders\r\n- Copy changelogs (& rename to version number), icons, fanarts to your repository\r\n- Changed from deprecated md5 module to hashlib\r\n\r\n**It can do the following:**\r\n+ Create a repository addon which users can install.\r\n+ Create the addons.xml and addon.xml.md5 files.\r\n+ ZIP-file your addons with version numbers.\r\n+ Copy changelogs and rename with version numbers.\r\n+ Copy icons & fanarts, if any.",
+  "body": "#Repository Bootstrapper\r\n##_Bootstrap GIT repo for setting up a Kodi repository_\r\n\r\n_forked from BartOtten with the additions of:_\r\n\r\n- Ignore .idea folders in addons' subfolders\r\n- Copy changelogs (& rename to version number), icons, fanarts to your repository\r\n- Changed from deprecated md5 module to hashlib\r\n\r\n**In summary, it can do the following:**\r\n+ Create a repository addon which users can install.\r\n+ Create the addons.xml and addon.xml.md5 files.\r\n+ ZIP-file your addons with version numbers.\r\n+ Copy changelogs and rename with version numbers.\r\n+ Copy icons & fanarts, if any.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
